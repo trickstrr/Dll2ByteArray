@@ -15,6 +15,3 @@ I also included (commented out since i didnt needed it) some header definitions 
 1. Compile the program
 2. Drag the Dll File into the Dll2ByteArray.exe
 3. output is on the same location as the .exe
-
-
- 1uy7avq0yrt31.sewsnjhyapi5.x08dcoi6rtk6.2dw0xxco3dpr0
